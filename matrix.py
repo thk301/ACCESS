@@ -4,7 +4,7 @@
 #
 # Matrix Builder from csv  
 #
-# When csv is generated, remove all the spaces, symbols, & charactors
+# When a csv is generated, remove all the spaces, symbols, & characters (use REGEX)
 # and add --> "CASEID","WORK_1","ISY","FS","STAR","UPK","SCHMREDUCE","CC","HS","DHE","BASICSTAR","CSFP","PHI_FAM","SUMM","EITC","CTC","SCHE","WIC","HEALTHY_NY","SCHMFREE","VE","PHI","SYEP","SCHMFULL","NYSUI","OST","SECT8","HEAP_OBJTV","RES","PA","SES","EnSTAR","SCRIE","DRIE","FPBP_OBJTV","CDCTC","NFP"
 # to give each column names to be used as pandas input file. 
 #
